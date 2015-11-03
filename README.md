@@ -8,7 +8,9 @@ Next, setup Git so that you can retrieve the code that will be installed on the 
 
 After you have the hardware, you will need to get it setup by following the instructions [here](http://start.tessel.io/install). Note that there are different instructions if you are setting up a [tessel 1](http://start.tessel.io/install) versus a [tessel 2](https://tessel.github.io/t2-start/). After you have got to the step of running `tessel update` you are ready to begin following these instructions.
 
-1. Open the terminal and navigate to the desktop or the location you want to place your tessel program. ```cd Desktop`` Note that `cd` means "change directory".
+1. Open the terminal and navigate to the desktop or the location you want to place your tessel program.
+...```cd Desktop``
+Note that `cd` means "change directory".
 
 2. Create a folder (also known as a directory) called Tessel. ```mkdir Tessel``` Note that mkdir stands for "make directory" and it creates a folder named after the command that is typed after it, in this case "Tessel".
 
