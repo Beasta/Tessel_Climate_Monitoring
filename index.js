@@ -70,6 +70,7 @@ ambient.on('error', function (err) {
 
 function sendToCloud(tdata, hdata, ldata, sdata, cb){
   keen.addEvent("climate", {  
+   "username":keenConfigure.username,
    "temp": tdata,
    "humidity": hdata,
    "light": ldata,

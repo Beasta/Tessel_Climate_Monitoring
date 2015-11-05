@@ -1,6 +1,6 @@
 module.exports = {
-    projectId: "xxxxxxxx",
+    projectId: "561db9ca2fd4b1643a918987",
     writeKey: "xxxxxxxx",
-    readKey: "xxxxxxxxx",
-    baseUrl: "http://api.keen.io/"
+    baseUrl: "http://api.keen.io/",
+    username: "xxxxxxxxxxxxx"
 };
